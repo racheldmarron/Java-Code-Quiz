@@ -1,7 +1,7 @@
 ## Code Quiz
 
 ## Link to Deployed Assets 
-https://racheldmarron.github.io/Java-Code-Quiz/ 
+https://racheldmarron.github.io/java-code-quiz/ 
 
 ## Overview
 
