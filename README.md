@@ -46,5 +46,15 @@ THEN I can save my initials and my score
 ![](./assets/images/quiz-reference-2.png)
 
 
+## Contributors
+
+- N/A
+
+## License
+
+This application is covered under MIT License    
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 - - -
 © 2021 Rachel Delaney Marron, Inc. All Rights Reserved.
